@@ -1,7 +1,6 @@
 # cleaning-and-combining-data
 
 Practice Exercise
-This practice exercise will take you one step closer to becoming a data analyst
 
 The 'product_sales.xlsx' file contains 3 tables:
 	- orders
